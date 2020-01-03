@@ -1,0 +1,3 @@
+C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.AssemblyInfo.cs

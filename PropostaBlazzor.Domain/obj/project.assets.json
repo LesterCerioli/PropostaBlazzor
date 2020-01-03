@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\PropostaBlazzor\\PropostaBlazzor.Domain\\PropostaBlazzor.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\Proposta Blend\\PropostaBlazzor.Domain\\PropostaBlazzor.Domain.csproj",
       "projectName": "PropostaBlazzor.Domain",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\PropostaBlazzor\\PropostaBlazzor.Domain\\PropostaBlazzor.Domain.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\Proposta Blend\\PropostaBlazzor.Domain\\PropostaBlazzor.Domain.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\PropostaBlazzor\\PropostaBlazzor.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\Proposta Blend\\PropostaBlazzor.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft\\Xamarin\\NuGet\\"
