@@ -3,9 +3,58 @@
 @using PropostaBlazzor.Web.Data
 @inject WeatherForecastService ForecastService
 
-<h1>Clientes</h1>
+<h1>Cadastro de Clientes</h1>
+
+<div class="container">
+    <div class="row">
+        <form class="signin">
+
+            <label for="inputRaz class="sr-only">Razão Social</label>
+            <input type="text" id="inputRaz"
+                   name="email"
+                   class="form-control mb-2">
+
+            <label for="inputRaz class="sr-only">CNPJ</label>
+            <input type="text" id="inputCNPJ"
+                   name="email"
+                   class="form-control mb-2">
+
+            <label for="inputRaz class="sr-only">Nome Fantasia</label>
+            <input type="text" id="inputFantasyname"
+                   name="namefantasy"
+                   class="form-control mb-2">
+
+            <label for="inputRaz class="sr-only">Nome do Contato</label>
+            <input type="text" id="inputContactname"
+                   name="namecontact"
+                   class="form-control mb-2">
 
 
+
+            <label for="inputAddress class="sr-only">Endereço Competo</label>
+            <input type="text" id="inputAddress"
+                   name="address"
+                   class="form-control mb-2">
+
+            <label for="inputAddress class="sr-only">Estado</label>
+            <input type="text" id="inputState"
+                   name="address"
+                   class="form-control mb-2">
+
+
+            <label for="inputAddress class="sr-only">Cidade</label>
+            <input type="text" id="inputCity"
+                   name="address"
+                   class="form-control mb-2">
+
+
+            <label for="inputAddress class="sr-only">País</label>
+            <input type="text" id="inputCountry"
+                   name="address"
+                   class="form-control mb-2">
+        </form>
+    </div>
+</div>
 
 @code {
     WeatherForecast[] forecasts;

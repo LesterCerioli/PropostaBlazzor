@@ -1,3 +1,16 @@
 C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.csprojAssemblyReference.cache
 C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.AssemblyInfoInputs.cache
 C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\bin\Debug\netcoreapp3.0\PropostaBlazzor.Domain.deps.json
+C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\bin\Debug\netcoreapp3.0\PropostaBlazzor.Domain.dll
+C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\bin\Debug\netcoreapp3.0\PropostaBlazzor.Domain.pdb
+C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.dll
+C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.pdb
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Domain\bin\Debug\netcoreapp3.0\PropostaBlazzor.Domain.deps.json
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Domain\bin\Debug\netcoreapp3.0\PropostaBlazzor.Domain.dll
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Domain\bin\Debug\netcoreapp3.0\PropostaBlazzor.Domain.pdb
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.dll
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Domain\obj\Debug\netcoreapp3.0\PropostaBlazzor.Domain.pdb

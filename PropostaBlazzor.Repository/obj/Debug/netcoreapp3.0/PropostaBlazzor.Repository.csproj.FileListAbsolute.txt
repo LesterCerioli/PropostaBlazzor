@@ -6,3 +6,11 @@ C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Repository\ob
 C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Repository\obj\Debug\netcoreapp3.0\PropostaBlazzor.Repository.AssemblyInfo.cs
 C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Repository\obj\Debug\netcoreapp3.0\PropostaBlazzor.Repository.dll
 C:\Users\Administrator\Source\Repos\Proposta Blend\PropostaBlazzor.Repository\obj\Debug\netcoreapp3.0\PropostaBlazzor.Repository.pdb
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Repository\bin\Debug\netcoreapp3.0\PropostaBlazzor.Repository.deps.json
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Repository\bin\Debug\netcoreapp3.0\PropostaBlazzor.Repository.dll
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Repository\bin\Debug\netcoreapp3.0\PropostaBlazzor.Repository.pdb
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Repository\obj\Debug\netcoreapp3.0\PropostaBlazzor.Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Repository\obj\Debug\netcoreapp3.0\PropostaBlazzor.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Repository\obj\Debug\netcoreapp3.0\PropostaBlazzor.Repository.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Repository\obj\Debug\netcoreapp3.0\PropostaBlazzor.Repository.dll
+C:\Users\Administrator\source\repos\Blazor-Proposta-A-Blend\PropostaBlazzor.Repository\obj\Debug\netcoreapp3.0\PropostaBlazzor.Repository.pdb

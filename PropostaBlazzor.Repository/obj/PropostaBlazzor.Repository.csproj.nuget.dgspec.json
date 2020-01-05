@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Source\\Repos\\Proposta Blend\\PropostaBlazzor.Repository\\PropostaBlazzor.Repository.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\Blazor-Proposta-A-Blend\\PropostaBlazzor.Repository\\PropostaBlazzor.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Source\\Repos\\Proposta Blend\\PropostaBlazzor.Repository\\PropostaBlazzor.Repository.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\Blazor-Proposta-A-Blend\\PropostaBlazzor.Repository\\PropostaBlazzor.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\Proposta Blend\\PropostaBlazzor.Repository\\PropostaBlazzor.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Blazor-Proposta-A-Blend\\PropostaBlazzor.Repository\\PropostaBlazzor.Repository.csproj",
         "projectName": "PropostaBlazzor.Repository",
-        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\Proposta Blend\\PropostaBlazzor.Repository\\PropostaBlazzor.Repository.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Blazor-Proposta-A-Blend\\PropostaBlazzor.Repository\\PropostaBlazzor.Repository.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\Proposta Blend\\PropostaBlazzor.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\Blazor-Proposta-A-Blend\\PropostaBlazzor.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft\\Xamarin\\NuGet\\"
